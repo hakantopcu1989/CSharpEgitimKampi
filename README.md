@@ -36,4 +36,9 @@ Projenin Yedinci bölümünde döngülerin diğer bir çeşidi olan foreach dön
 Projenin Sekizinci bölümünde metot tanımlamaları üzerine çalıştım. Geriye değer döndüren ve döndürmeyen metotları int ve string parametreleri ile nasıl kullanıldığının deneyimini kazandım
 	
 	
+<img width="620" height="334" alt="İstatistik Formu" src="https://github.com/user-attachments/assets/e487bf2b-7937-4e2c-b4d2-9149d512e954" />
+
+
+Bu projede CSharpEğitim Kampına istinaden Linq Sorguları ile İstatistiksel Çalışma gerçekleştirme fırsatı yakaladım. Toplam, Ortalama, Maksimum gibi İstatistik formülleri ile
+Database den veriler çekerek analiz sonuçları elde etmeyi öğrendik.
 	
